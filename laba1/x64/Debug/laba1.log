@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  spisok1.cpp
+C:\Users\ganin\Desktop\lovis-master\spisok1.cpp(13,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  laba1.vcxproj -> C:\Users\ganin\Desktop\lovis-master\x64\Debug\laba1.exe
