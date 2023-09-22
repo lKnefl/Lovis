@@ -1,0 +1,8 @@
+﻿  Source1 (2).cpp
+D:\Загрузки\Source1 (2).cpp(89,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Загрузки\Source1 (2).cpp(91,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Загрузки\Source1 (2).cpp(92,18): warning C4101: choice: неиспользованная локальная переменная
+D:\Загрузки\Source1 (2).cpp(92,15): warning C4101: i: неиспользованная локальная переменная
+  Source.cpp
+  Создание кода...
+  Project1.vcxproj -> C:\Users\ganin\Desktop\laba2\Project1\x64\Debug\Project1.exe
