@@ -1,0 +1,25 @@
+﻿Построение начато 27.09.2023 18:22:55.
+     1>Проект "X:\22ВВВ1\Laba31\Laba31\Laba31.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Laba31.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\student\Downloads\Source1 (1).cpp" C:\Users\student\Downloads\Source2.cpp
+         Source2.cpp
+         Source1 (1).cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"X:\22ВВВ1\Laba31\Debug\Laba31.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Laba31.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"X:\22ВВВ1\Laba31\Debug\Laba31.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:\22ВВВ1\Laba31\Debug\Laba31.lib" /MACHINE:X86 "Debug\Source (1).obj"
+         "Debug\Source1 (1).obj"
+         Debug\Source2.obj
+     1>Source (1).obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+         Laba31.vcxproj -> X:\22ВВВ1\Laba31\Debug\Laba31.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"X:\22ВВВ1\Laba31\Debug\Laba31.exe;#1" /manifest Debug\Laba31.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Laba31.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Laba31.lastbuildstate".
+     1>Построение проекта "X:\22ВВВ1\Laba31\Laba31\Laba31.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.46
