@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Source2.cpp
+D:\Users\22VVV1\lovis\laba4\Source2.cpp(98,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  laba4.vcxproj -> D:\Users\22VVV1\lovis\laba4\Debug\laba4.exe
