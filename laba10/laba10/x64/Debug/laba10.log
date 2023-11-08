@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ganin\Desktop\laba10\Source.cpp(79,35): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ganin\Desktop\laba10\Source.cpp(82,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ganin\Desktop\laba10\Source.cpp(150,25): warning C4101: start: неиспользованная локальная переменная
+  laba10.vcxproj -> C:\Users\ganin\Desktop\laba10\x64\Debug\laba10.exe
