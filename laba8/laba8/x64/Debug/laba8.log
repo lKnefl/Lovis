@@ -1,0 +1,4 @@
+﻿  Source .cpp
+C:\Users\ganin\Desktop\laba8\Source .cpp(178,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\ganin\Desktop\laba8\Source .cpp(181,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba8.vcxproj -> C:\Users\ganin\Desktop\laba8\x64\Debug\laba8.exe
