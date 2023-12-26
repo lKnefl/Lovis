@@ -1,0 +1,6 @@
+﻿  курсовая3.cpp
+F:\курсовая3.cpp(9,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+F:\курсовая3.cpp(9,1): message : "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+F:\курсовая3.cpp(212,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+курсовая3.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  курсач.vcxproj -> F:\курсач\Debug\курсач.exe
